@@ -51,7 +51,7 @@
             color: white;
         }
 
-        li{
+        li {
             color: white !important
         }
     </style>
@@ -59,7 +59,8 @@
     <meta name="description"
         content="Ratiborus KMS (Windows KMS) Tools (KMS Tools Portable) is the best free all-in-one toolkit designed for Windows and office activator. It can be used to activate all editions of Windows and Office" />
     <meta name="keywords"
-        content="Ratiborus KMS, THS, Ratiborus KMS free download, Ratiborus KMS PC download , Ratiborus KMS creak , Ratiborus KMS creaked , Ratiborus KMS free download , Ratiborus KMS free , Ratiborus KMS download , windows KMS , download Windows KMS , free Windows KMS " />
+        content="Ratiborus KMS, THS, Ratiborus KMS free download, Ratiborus KMS PC download, Ratiborus KMS creak, Ratiborus KMS creaked, Ratiborus KMS free download, Ratiborus KMS free, Ratiborus KMS download, windows KMS, download Windows KMS, free Windows KMS, windows kms keys, windows kms, windows kms server, windows kms activation, windows kms key, windows kms activator, activate windows kms, windows kms activation windows 10, windows kms service, windows kms ports,  windows kms product keys, what is windows kms, windows kms client keys, kms activator windows 10" />
+
     <meta name="author" content="THS" />
     <meta name="robots" content="index, follow" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
