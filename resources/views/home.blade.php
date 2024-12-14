@@ -50,6 +50,10 @@
             margin-inline-end: 0px !important;
             color: white;
         }
+
+        li{
+            color: white !important
+        }
     </style>
 
     <meta name="description"
