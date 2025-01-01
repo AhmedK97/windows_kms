@@ -10,7 +10,8 @@
     {{-- icon --}}
     <link rel="icon" href="{{ asset('storage/icon/icon.webp') }}" type="image/x-icon" />
 
-
+    @vite('resources/css/app.css')
+    @vite('resources/js/flowbite.min.js')
     <style>
         h2 {
             display: block !important;
