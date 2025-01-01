@@ -83,72 +83,161 @@
         <h1 class="mt-10 mb-2 text-4xl font-extrabold text-center text-white">
             Ratiborus KMS (Windows KMS) News & Updates
         </h1>
-        <div class="flex flex-col items-center pt-6 sm:pt-0">
-            <div class="w-full p-6 mt-6 overflow-hidden prose shadow-md bg-[#1F2937] sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
-                <h2>X3 Frame Generation</h2>
-                <p>MAJOR UPDATE</p>
-                <p>JUN 6</p>
-                <p>- Introducing the X3 frame generation mode. LSFG 2.1 can now generate two intermediate frames, effectively tripling the framerate.
-                </p>
-            </div>
-        </div>
-        <div class="flex flex-col items-center mt-12 sm:pt-0">
-            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
-                <h2>Introducing LSFG 2.0</h2>
-                <p>MAJOR UPDATE</p>
-                <p>MAY 9</p>
-                <p>- Enhanced architecture for processing large-scale movements, enabling efficient usage at lower frame rates.</p>
-            </div>
-        </div>
-
-        <div class="flex flex-col items-center mt-12 sm:pt-0">
-            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
-                <h2>General improvements and bug fixes</h2>
-                <p>REGULAR UPDATE</p>
-                <p>APR 4</p>
-                <p>Reduced distortion/ghosting artifacts for LSFG that could occur at certain resolutions and low frame rates.</p>
-                <p>Changes to DXGI capture that may improve frame rate stability and address possible other issues.</p>
-            </div>
-        </div>
-
-        <div class="flex flex-col items-center mt-12 sm:pt-0">
-            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
-                <h2>LSFG 1.1 – New UI detection model</h2>
-                <p>REGULAR UPDATE</p>
-                <p>MAR 7</p>
-                <p>Part of the LSFG has been reworked to detect UI more effectively. As a result, a significant reduction in UI ghosting and less
-                    impact on the main image in case of incorrect detection.</p>
-            </div>
-        </div>
-
-        <div class="flex flex-col items-center mt-12 sm:pt-0">
-            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
-                <h2>New frame capture API</h2>
-                <p>REGULAR UPDATE</p>
-                <p>FEB 9</p>
-                <p>New DXGI frame capture API, that should fix most performance issues, also allows the LS to be tied to the game's framerate and
-                    simply double the number of frames when frame generation is used. For the best LSFG experience, it is still recommended to lock
-                    the game's framerate to half the LS refresh rate (which can be limited by the vsync option). However, you can now also lock the
-                    game at any framerate or not lock at all, while LS will do its best to ensure the correct framepacing.</p>
-            </div>
-        </div>
-
-
         <div class="flex flex-col items-center mt-6 mb-4 sm:pt-0">
             <div
                 class="p-4 overflow-hidden prose text-center rounded shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
-                <a target="blank" href="https://store.steampowered.com/news/app/993090 " class="text-white">See more</a>
+                <a target="blank" href="/" class="text-white">Download Ratiborus KMS (Windows Activator) </a>
             </div>
         </div>
 
+        <div class="flex flex-col items-center pt-6 sm:pt-0">
+            <div class="w-full p-6 mt-6 overflow-hidden prose shadow-md bg-[#1F2937] sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>Windows KMS Updates: A Complete Guide to Understanding and Managing Your Key Management Service﻿</h2>
+
+            </div>
+        </div>
+        <div class="flex flex-col items-center mt-12 sm:pt-0">
+            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>What is Windows KMS?</h2>
+                <p>Windows Key Management Service (KMS) is a tool Microsoft created to make activating more than one devices in an organisation smooth
+                    and problem-loose. It helps companies control their licenses without requiring each laptop to for my part hook up with Microsoft's
+                    servers for activation. Instead, a primary KMS host looks after it all, activating gadgets at the network.
+                </p>
+            </div>
+        </div>
+
+        <div class="flex flex-col items-center mt-12 sm:pt-0">
+            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>1. Why Update Windows KMS?</h2>
+                <p>Keeping your KMS up to date is crucial to make sure that it helps the modern day Windows versions and runs smoothly. If your KMS
+                    host isn't always up to date, more recent variations of Windows (like Windows Server 2022 or Windows eleven) won't prompt well.
+                </p>
+            </div>
+        </div>
+
+        <div class="flex flex-col items-center mt-12 sm:pt-0">
+            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>2. Setting Up Your KMS Host</h2>
+                <p>Setting up a KMS host is simpler than it sounds:</p>
+                <p>1- Requirements :</p>
+                <ul class="list-disc list-inside">
+                    <li>You want a Windows Server (2016 or later is right).</li>
+                    <li>A KMS key supplied with the aid of Microsoft (called a CSVLK).</li>
+                </ul>
+                <p>2- How to Install :</p>
+                <ul class="list-disc list-inside">
+                    <li>Open the Server Manager to your Windows Server.</li>
+                    <li>Add the "Volume Activation Services" position to your server.</li>
+                    <li>Follow the activates to install and set it up.</li>
+                </ul>
+                <p>3- Activate the Host :</p>
+                <ul class="list-disc list-inside">
+                    <li>Once the service is hooked up, use the "Volume Activation Tools" to enter your KMS key and set off the host.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="flex flex-col items-center mt-12 sm:pt-0">
+            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>3. Keeping KMS Updated</h2>
+                <p>To spark off the modern Windows variations, your KMS host would possibly need updates. For instance, if you need to spark off
+                    Windows eleven or Server 2022, you may want to down load and set up updates from Microsoft that useful resource those variations.
+                </p>
+                <ul class="list-disc list-inside">
+                    <li>Check for updates on the Microsoft Support website.</li>
+                    <li>Download and deploy the replace to your precise Windows Server version.</li>
+                    <li>Restart your server to use the updates.</li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="flex flex-col items-center mt-12 sm:pt-0">
+            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>4. How KMS Clients Work</h2>
+                <p>Once the KMS host is ready, your gadgets (customers) will connect to it automatically if they’re at the identical community. Here’s
+                    a way to installation your clients:
+                </p>
+                <ul class="list-disc list-inside">
+                    <li>Install a Generic Volume License Key (GVLK) on the device you need to set off.</li>
+                    <li>Ensure the customer can attain the KMS host (DNS settings have to be correct).</li>
+                    <li>Activation will occur mechanically if everything’s configured efficaciously.</li>
+                </ul>
+            </div>
+        </div>
+
+
+
+        <div class="flex flex-col items-center mt-12 sm:pt-0">
+            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>5. Troubleshooting KMS Problems</h2>
+                <p>If some thing goes wrong, don’t panic! Common problems encompass: </p>
+                <ul class="list-disc list-inside">
+                    <li>Clients no longer activating: Ensure the KMS host is up to date and handy at the community.</li>
+                    <li>KMS errors: Check your event logs on the server for specific error codes.</li>
+                    <li>Network issues: Confirm that the firewall permits visitors on port 1688, which KMS makes use of.</li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="flex flex-col items-center mt-12 sm:pt-0">
+            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>6. Best Practices for Managing KMS</h2>
+                <p>If some thing goes wrong, don’t panic! Common problems encompass: </p>
+                <ul class="list-disc list-inside">
+                    <li>Regularly replace your KMS host to stay well matched with the trendy Windows versions.</li>
+                    <li>Keep tune of activation thresholds (KMS desires a minimum quantity of gadgets to work).</li>
+                    <li>Secure your KMS server by means of limiting who can get right of entry to it and tracking its usage.</li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="flex flex-col items-center mt-12 sm:pt-0">
+            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>7 - Alternatives to KMS</h2>
+                <p>Not every company is using KMS for activation. Below are some alternatives: </p>
+                <ul class="list-disc list-inside">
+                    <li>Multiple Activation Key (MAK): Each device will be activated just a single time.</li>
+                    <li>Active Directory-Based Activation (ADBA) : Enables activation through Active Directory without a separate KMS server.</li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="flex flex-col items-center mt-12 sm:pt-0">
+            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>FAQs About Windows KMS</h2>
+                <p>Q1: Why do I need to replace my KMS host?</p>
+                <p>Updates make certain that your KMS host can activate the brand new Windows running structures, like Windows 11 or Server 2022.</p>
+                <p>Q2: What happens if my KMS host isn’t updated?</p>
+                <p>Clients using newer Windows versions may additionally fail to activate.</p>
+                <p>Q3: Can I use KMS for Office activation too?</p>
+                <p>Yes, KMS can prompt Microsoft Office merchandise like Office 2019 or Office 2021 if configured well.</p>
+                <p>Q4: What port does KMS use?</p>
+                <p>KMS makes use of port 1688. Make positive your firewall settings permit visitors in this port.</p>
+                <p>Q5: How lengthy does KMS activation final?</p>
+                <p>Client devices want to reconnect to the KMS host every one hundred eighty days to live activated.</p>
+                <p>Q6: Is KMS activation criminal?</p>
+                <p>Yes, so long as you’re the use of a proper KMS key furnished via Microsoft and adhering to licensing terms.</p>
+            </div>
+        </div>
+
+        <div class="flex flex-col items-center mt-12 sm:pt-0">
+            <div class="w-full p-6 overflow-hidden prose shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <h2>By following this manual, you’ll keep your Windows KMS running smoothly and ensure seamless activation for all your corporation’s
+                    gadgets.</h2>
+            </div>
+        </div>
+        <div class="flex flex-col items-center mt-6 mb-4 sm:pt-0">
+            <div
+                class="p-4 overflow-hidden prose text-center rounded shadow-md bg-[#1F2937]  sm:max-w-2xl dark:bg-gray-800 sm:rounded-lg dark:prose-invert">
+                <a target="blank" href="/" class="text-white">Download Ratiborus KMS (Windows KMS) for free</a>
+            </div>
+        </div>
     </div>
-
-
-
     <x-footer />
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"></script>
-
 </body>
 
 </html>
