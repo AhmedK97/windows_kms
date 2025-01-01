@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Ratiborus KMS (Windows KMS)</title>
+    <title>Ratiborus KMS (Windows KMS) News & Updates</title>
 
     {{-- icon --}}
     <link rel="icon" href="{{ asset('storage/icon/icon.webp') }}" type="image/x-icon" />
